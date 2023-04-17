@@ -26,5 +26,24 @@
                 "Yeah, Freizeit",
                 "Du machst den Unterschied",
                 "War das Essen gut?"
-        ]
+        ],
+        "....-01-01": [
+                "Happy new year!"
+	],
+	"....-10-31": [
+		"Happy Halloween!"
+	],
+	"....-04-17": [
+		"Einen fröhlichen 17. April!"
+	],
+        "day_sunny": [
+	        "Today is a sunny day",
+		"It's a beautiful day"
+	],
+	"snow": [
+	        "Snowball battle!"
+	],
+	"rain": [
+	        "Don't forget your umbrella"
+	]
 }
